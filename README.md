@@ -1,1 +1,1 @@
-I have learned using Linux and it seems very powerful, speceially its power of automated inspired  me to move from windows. I hope to leverage what i learn from this into my next project.
+It's a great opportunity to learn Linux. As I started learning Linux it seemed very powerful, especially its power of automated inspired  me to move from windows. I hope to leverage what I learn from this into my next project.
