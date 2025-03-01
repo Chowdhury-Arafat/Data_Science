@@ -19,5 +19,3 @@ fi
 # Find and delete files larger than the specified size
 find "$DIR" -type f -size +"$SIZE"c -exec rm -v {} \;
 
-# Print confirmation
-echo "Deleted all files larger than $SIZE bytes in '$DIR'."
