@@ -16,8 +16,6 @@ if [ ! -f "$FILE" ]; then
     exit 1
 fi
 
-# Extract rows with the keyword, sort them, and remove duplicates
+# Extract rows with the keyword, sort them and remove duplicates
 grep "$KEYWORD" "$FILE" | sort | uniq > filtered_sorted.txt
 
-# Print confirmation
-echo "Filtered, sorted, and unique rows saved to 'filtered_sorted.txt'."
